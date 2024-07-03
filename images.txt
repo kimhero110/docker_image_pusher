@@ -7,3 +7,4 @@ jc21/nginx-proxy-manager
 weejewel/wg-easy
 glanceapp/glance
 ghcr.io/wg-easy/wg-easy
+2fauth/2fauth
