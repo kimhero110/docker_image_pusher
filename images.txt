@@ -8,3 +8,5 @@ weejewel/wg-easy
 glanceapp/glance
 ghcr.io/wg-easy/wg-easy
 2fauth/2fauth
+xhongc/music-tag-web
+advplyr/audiobookshelf
